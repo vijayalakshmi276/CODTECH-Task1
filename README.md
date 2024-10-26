@@ -1,6 +1,6 @@
 Name:MALLIDI VIJAYALAKSHMI
- Company:CODTECH IT SOLUTIONS
- ID:CT08DS8909
+Company:CODTECH IT SOLUTIONS
+ID:CT08DS8909
  Domain:Web Development 
 Duration:October to Novenber 2024 
 Overview of the project

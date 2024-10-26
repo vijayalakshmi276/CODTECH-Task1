@@ -14,4 +14,3 @@ Overview of the project
  key insights:
  Fast:users should be able to add tasks quickly and easily Flexible:Apps should be able to accommodate different needs,from basic tasks to more complex ones
  Available everywhere: Apps should be accessible across devices and integrate seamlessly into the user's life
-
